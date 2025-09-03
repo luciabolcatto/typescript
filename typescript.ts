@@ -4,6 +4,16 @@
 // filter(): https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter 
 // map(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map 
 // find(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find 
+
+
+// LECTURAS:
+// https://www.w3schools.com/typescript/typescript_arrays.php
+// https://www.w3schools.com/typescript/typescript_object_types.php
+// https://www.w3schools.com/typescript/typescript_aliases_and_interfaces.php
+// https://www.w3schools.com/typescript/typescript_union_types.php
+// https://www.w3schools.com/typescript/typescript_functions.php
+
+
 // Más práctica online: https://www.w3schools.com/typescript/exercise.php?filename=exercise_intro1 
 // Triple igual en comparaciones: https://developer.mozilla.org/es/docs/Web/JavaScript/Equality_comparisons_and_sameness 
 
